@@ -9,4 +9,4 @@ Package ewma implements exponentially-weighted moving average chart. (http://en.
 
 
 
-<i>Last Updated at 2014-12-31 18:00:08</i>
+<i>Last Updated at 2014-12-31 18:26:47</i>

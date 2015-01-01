@@ -2,3 +2,9 @@ ewma [![Build Status](https://travis-ci.org/gyuho/ewma.svg?branch=master)](https
 ==========
 
 Package ewma implements exponentially-weighted moving average chart. (http://en.wikipedia.org/wiki/EWMA_chart)
+
+
+
+
+
+<i>Last Updated at 2014-12-31 17:44:12</i>
